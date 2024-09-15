@@ -1,4 +1,4 @@
-# ßJava Spring Practice Project
+# Java Spring Practice Project
 
 ## Overview
 
